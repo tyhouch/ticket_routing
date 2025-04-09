@@ -1,0 +1,27 @@
+{
+    "TECH-IT": {
+      "department_name": "Technical IT",
+      "contact_email": "it.support@company.com",
+      "contact_person": "Alex Johnson"
+    },
+    "HR-PERS": {
+      "department_name": "HR/Personnel",
+      "contact_email": "hr.department@company.com",
+      "contact_person": "Morgan Smith"
+    },
+    "FACIL": {
+      "department_name": "Facilities",
+      "contact_email": "facilities@company.com",
+      "contact_person": "Taylor Brown"
+    },
+    "FIN": {
+      "department_name": "Finance",
+      "contact_email": "finance.team@company.com",
+      "contact_person": "Jordan Williams"
+    },
+    "CUST-SUP": {
+      "department_name": "External Customer Support",
+      "contact_email": "customer.care@company.com",
+      "contact_person": "Casey Garcia"
+    }
+  }

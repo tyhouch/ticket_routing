@@ -1,0 +1,21 @@
+ticket_id,timestamp,title,description,priority
+T-1001,2025-04-01 09:15:23,"Computer won't boot","When I press the power button on my desktop, nothing happens. I've checked that it's plugged in properly.",High
+T-1002,2025-04-01 10:30:45,"Need W-2 for tax filing","I can't find my W-2 form in the employee portal. I need it for filing my taxes which are due next week.",Medium
+T-1003,2025-04-01 11:45:12,"Conference room projector flickering","The projector in Meeting Room B has been flickering during presentations. It's distracting and makes it hard to read slides.",Low
+T-1004,2025-04-01 13:20:33,"Expense report rejected","My expense report #ER-2025-113 was rejected but I don't understand why. All receipts were attached as required.",Medium
+T-1005,2025-04-01 14:05:59,"Customer can't reset password","A customer called saying they've tried to reset their password using the 'Forgot Password' link but never received the email.",High
+T-1006,2025-04-02 08:30:18,"Request for standing desk","Due to back issues, my doctor recommended I use a standing desk. Can one be provided for my workstation?",Medium
+T-1007,2025-04-02 09:45:27,"VPN connection failing","I can't connect to the company VPN from home. It was working yesterday but now gives a 'connection refused' error.",High
+T-1008,2025-04-02 11:10:52,"AC not working in east wing","The air conditioning in the east wing of the building isn't working. It's getting uncomfortably warm.",High
+T-1009,2025-04-02 13:40:09,"Question about dental benefits","I need to get a root canal but I'm not sure if it's covered by our dental plan. Can someone clarify our coverage?",Medium
+T-1010,2025-04-02 15:25:43,"New client invoice issue","We need to issue a corrected invoice to client ABC Corp. Their tax ID was entered incorrectly on invoice #INV-4592.",High
+T-1011,2025-04-03 08:55:16,"Printer constantly jamming","The printer on the 3rd floor keeps jamming. We've had to restart print jobs multiple times.",Low
+T-1012,2025-04-03 10:15:30,"Customer subscription downgrade request","Customer John Smith (ID: CS-4592) wants to downgrade from Premium to Basic plan but can't find the option in their account.",Medium
+T-1013,2025-04-03 11:30:24,"Unable to access shared drive","I can't access the Marketing shared drive. Getting 'access denied' even though I worked on files there yesterday.",Medium
+T-1014,2025-04-03 13:50:37,"Water leak in kitchen","There's water leaking from under the sink in the 2nd floor kitchen. Small puddle forming on the floor.",High
+T-1015,2025-04-03 15:10:58,"Missing direct deposit","My last paycheck wasn't deposited into my account. Payment was due on the 1st but still nothing showing in my bank.",High
+T-1016,2025-04-04 09:05:22,"Email signature not updating","I updated my email signature in the template but it's not showing up in new emails I send.",Low
+T-1017,2025-04-04 10:40:15,"Maternity leave question","I'm expecting in August and want to know how to properly file for maternity leave and what documentation I need.",Medium
+T-1018,2025-04-04 12:20:31,"Customer can't download purchased software","Customer reports they paid for our software but the download link isn't working. Order #ORD-39281.",High
+T-1019,2025-04-04 14:15:48,"Parking garage gate malfunction","The north entrance gate to the parking garage is stuck open. Security is concerned.",High
+T-1020,2025-04-04 16:05:29,"Year-end budget planning meeting request","Need to schedule a budget planning meeting with all department heads before the quarter ends.",Medium
