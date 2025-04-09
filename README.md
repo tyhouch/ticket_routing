@@ -21,8 +21,7 @@ Two data files:
      "DEPARTMENT_CODE": {
        "department_name": "Department Name",
        "contact_email": "email@example.com",
-       "contact_person": "Contact Person",
-       "priority_level": 1
+       "contact_person": "Contact Person"
      },
      ...
    }
